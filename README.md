@@ -1,6 +1,4 @@
-# EXAMPLE NAME
+# GETTI GRINN
 Repository to homework's
-/student1
-  /hw1
-  /hw2
+
 
